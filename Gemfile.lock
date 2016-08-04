@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/everypolitician/twitter_list.git
-  revision: 25087ee3d4b97a0bfeac37d9c915d018d1ce453b
+  revision: 06ec0b4521a964674ba482dfa3efc0dc43c1a1e0
   specs:
-    twitter_list (0.0.1)
+    twitter_list (0.0.2)
       twitter
 
 GIT
@@ -64,7 +64,7 @@ PLATFORMS
 
 DEPENDENCIES
   scraperwiki!
-  twitter_list!
+  twitter_list (>= 0.0.2)!
 
 BUNDLED WITH
    1.12.5
